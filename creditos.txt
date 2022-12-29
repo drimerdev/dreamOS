@@ -1,0 +1,29 @@
+            dreamOS
+*******************************
+Created by Drimer Félix
+Version 0.0(alpha version)
+© 2022 Drimer Felix studios
+
+
+           pt-br
+      este é um software
+      livre e pode ser modificado por qual quer um!
+fassa o que você quizer com o codigo!
+
+
+=============================
+
+na opção numero 3 o Windows live Menssager precisa estar instalado
+
+procure em seu navegador de internet escargot.chat
+
+_____________________________
+
+depois de modificar o DreamOS
+escreva seu nome aqui e envie para o github!
+boa sorte!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+aviso o codigo só pode ser escrito na Linguagem de programação pradrão do Microsoft Windows
+escrever o codigo em outra linguagem de programação pode corromper o dreamOS!
